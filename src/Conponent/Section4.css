@@ -1,0 +1,22 @@
+.Section4{
+    background-color: white;
+    /* border: 1px solid red; */
+    margin: 0 auto; 
+    margin-top: -2.7em;
+    width: 400px;
+    max-width: 400px;
+
+}
+.sec4 button{
+    padding: 20px;
+    max-width: 400px;
+    width: 70%;
+    border: 1px ;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+    background-color:hsl(245, 75%, 52%);
+}
+h3{
+    color: gray;
+} 

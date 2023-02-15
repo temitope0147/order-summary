@@ -1,0 +1,11 @@
+.Section2{
+    width: 90%;
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.Section2 h1{
+    margin: 0;
+}
+
